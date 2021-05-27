@@ -1,7 +1,7 @@
 ### Hi, I'm Wojtuś.! 👋
 #
 
-<img align="right" alt="GIF" width="527px" src="https://i.pinimg.com/originals/db/fe/6e/dbfe6e94b90c151270c6adb2b35e37d1.gif" />
+<img align="right" alt="GIF" width="527px" src="https://media2.giphy.com/media/65l4Oe67kg3MyyYxPc/giphy.gif" />
 
 **💬 Contact:**
 
