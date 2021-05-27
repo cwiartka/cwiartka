@@ -18,7 +18,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java) (Learning)
 
-![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat&logo=Node.js)
+![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat&logo=Nodejs)
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat&logo=visual-studio-code)
 
