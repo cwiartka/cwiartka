@@ -14,11 +14,16 @@
 
 **👩‍💻 Languages and Tools:**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java) (Learning)
-![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=Node.js)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code)
-![SQL](https://img.shields.io/badge/-sql-black?style=flat&logo=mysql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) 
+
+![Java](https://img.shields.io/badge/-Java-white?style=flat&logo=java) (Learning)
+
+![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat&logo=Node.js)
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat&logo=visual-studio-code)
+
+![SQL](https://img.shields.io/badge/-sql-red?style=flat&logo=mysql)
+
 
 **🌐 Projects:**
 
