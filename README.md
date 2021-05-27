@@ -37,4 +37,4 @@
 #
 **📊 Stats:**
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wojtus1g&show_icons=true&theme=tokyonight)](https://github.com/wojtus1g/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wojtus1g&theme=blue-green)](https://github.com/wojtus1g/github-readme-stats)
