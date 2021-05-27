@@ -5,7 +5,7 @@
 
 **💬 Contact:**
 
-   👉 Business email: deuszeqpp@gmail.com
+   👉 Business email: mail@hyhard.pl
   
    👉 Discord: https://dc.hyhard.pl/
   
