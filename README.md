@@ -36,5 +36,6 @@
 
 #
 **📊 Stats:**
-[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/x8wU7W23SU)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wojtus1g&theme=blue-green)](https://github.com/wojtus1g/github-readme-stats)
+
+[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/x8wU7W23SU)
