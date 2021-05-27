@@ -16,7 +16,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) 
 
-![Java](https://img.shields.io/badge/-Java-white?style=flat&logo=java) (Learning)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java) (Learning)
 
 ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat&logo=Node.js)
 
