@@ -22,7 +22,6 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat&logo=visual-studio-code)
 
-![SQL](https://img.shields.io/badge/-sql-red?style=flat&logo=mysql)
 
 
 **🌐 Projects:**
