@@ -22,7 +22,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-purple?style=flat&logo=visual-studio-code)
 
-![Photoshop](https://badges.aleen42.com/src/photoshop.svg)
+![Photoshop](https://github.com/aleen42/badges#designer)
 
 
 
