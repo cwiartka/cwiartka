@@ -14,15 +14,19 @@
 
 **👩‍💻 Languages and Tools:**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript) 
+![JavaScript](https://badges.aleen42.com/src/javascript.svg) 
+![Java](https://badges.aleen42.com/src/java.svg)
+![Node](https://badges.aleen42.com/src/node.svg)
+![Visual Studio Code](https://badges.aleen42.com/src/visual_studio_code.svg)
+![Photoshop](https://badges.aleen42.com/src/photoshop.svg)
+![Behance](https://badges.aleen42.com/src/behance.svg)
+![Adobe Premiere](https://badges.aleen42.com/src/premiere.svg)
+![After Effects](https://badges.aleen42.com/src/after_effects.svg)
+![Illustrator](https://badges.aleen42.com/src/illustrator.svg)
+![Idea](https://badges.aleen42.com/src/idea.svg)
+![Visual Studio](https://badges.aleen42.com/src/visual_studio.svg)
+![NPM](https://badges.aleen42.com/src/npm.svg)
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java) (Learning)
-
-![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat&logo=Nodejs)
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-purple?style=flat&logo=visual-studio-code)
-
-![Photoshop](https://github.com/aleen42/badges#designer)
 
 
 
