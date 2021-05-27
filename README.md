@@ -36,6 +36,7 @@
 
 #
 **📊 Stats:**
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wojtus1g&theme=blue-green)](https://github.com/wojtus1g/github-readme-stats)
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wojtus1g&theme=blue-green)](https://github.com/wojtus1g/github-readme-stats)
 
