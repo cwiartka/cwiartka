@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi, Im Wojtuś.! 👋
 
-<!--
-**wojtus1g/wojtus1g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 Contact:
+  ◆ Business e-mail: deuszeqpp@gmail.com
+  ◆ Discord: https://dc.hyhard.pl/
+  ◆ Website: https://www.hyhard.pl/
 
 Here are some ideas to get you started:
 
