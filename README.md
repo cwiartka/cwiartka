@@ -5,7 +5,7 @@
 
 **💬 Contact:**
 
-   👉 Business email: mail@hyhard.pl
+   👉 Business email: contact@hyhard.pl
   
    👉 Discord: https://dc.hyhard.pl/
   
