@@ -5,11 +5,11 @@
 
 **💬 Contact:**
 
-  👉 Business email: deuszeqpp@gmail.com
+       👉 Business email: deuszeqpp@gmail.com
   
-  👉 Discord: https://dc.hyhard.pl/
+       👉 Discord: https://dc.hyhard.pl/
   
-  👉 Website: https://www.hyhard.pl/
+       👉 Website: https://www.hyhard.pl/
   
 
 **👩‍💻 Languages and Tools:**
