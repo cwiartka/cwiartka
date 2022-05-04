@@ -5,8 +5,6 @@
 **📫 Contact:**
 
 - Discord: `7678#8847
-- Email: wojtus1g@hycode.pl
-- Website: hycode.pl
 
 **⚒ Languages and Tools:**
 
@@ -20,5 +18,5 @@
 #
 **📊 Stats:**
 
-[![](https://github-readme-stats.vercel.app/api?username=wojtus1g&show_icons=true&theme=tokyonight)](https://github.com/wojtus1g/github-readme-stats) 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=wojtus1g&theme=tokyonight)](https://github.com/wojtus1g)
+[![](https://github-readme-stats.vercel.app/api?username=cwiartka&show_icons=true&theme=tokyonight)](https://github.com/cwiartka/github-readme-stats) 
+[![](https://github-readme-streak-stats.herokuapp.com/?user=cwiartka&theme=tokyonight)](https://github.com/cwiartka)
