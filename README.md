@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi, I'm Wojciech! <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-![]([https://komarev.com/ghpvc/?username=wojtus1g&label=Profile+Views])<br/>
+![][([https://komarev.com/ghpvc/?username=wojtus1g&label=PROFILE+VIEWS])](https://komarev.com/ghpvc/?username=wojtus1g&label=PROFILE+VIEWS)
 
 
 <h2>📫 You can find me here:</h2>
