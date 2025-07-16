@@ -3,7 +3,7 @@
 
 <h2>📫 You can find me here:</h2>
 
-  <b>Discord server:</b> <a href="discord.gg/servercreators">ServerCreators</a>
+  <b>Discord server:</b> <a href="discord.gg/servercreators">ServerCreators</a> 🔗
   <b>Discord profile:</b> <a href="https://discord.com/channels/@me/329082766677377024">7678</a>
 
 <h2>⚒ Languages and Tools:</h2>
