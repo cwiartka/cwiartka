@@ -4,7 +4,7 @@
 
 **📫 Contact:**
 
-- Discord: `7678#8847
+- Discord: 7678
 
 **⚒ Languages and Tools:**
 
@@ -12,8 +12,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5) 
 ![CSS3](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=Node.js)
-![GitHub](https://img.shields.io/badge/-Github-black?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code)
+
 
 #
 **📊 Stats:**
